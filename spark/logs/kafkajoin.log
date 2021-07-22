@@ -1,0 +1,66 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+-----+--------------------+---------+
+|            customer|score|               email|birthYear|
++--------------------+-----+--------------------+---------+
+|Bobby.Spencer@tes...|  3.5|Bobby.Spencer@tes...|     1940|
+|Chris.Mitra@test.com| -3.0|Chris.Mitra@test.com|     1958|
+|Frank.Gonzalez@te...| 10.5|Frank.Gonzalez@te...|     1941|
+| Craig.Huey@test.com|-11.5| Craig.Huey@test.com|     1940|
+| Craig.Huey@test.com|-17.0| Craig.Huey@test.com|     1940|
+| Craig.Huey@test.com|-20.5| Craig.Huey@test.com|     1940|
+| Craig.Huey@test.com| 10.5| Craig.Huey@test.com|     1940|
+| Craig.Huey@test.com| 23.0| Craig.Huey@test.com|     1940|
+|Sean.Jackson@test...| 36.0|Sean.Jackson@test...|     1964|
+|Sean.Jackson@test...| 11.0|Sean.Jackson@test...|     1964|
+|Sean.Jackson@test...|-13.0|Sean.Jackson@test...|     1964|
+|Sean.Jackson@test...|-13.5|Sean.Jackson@test...|     1964|
+|Sean.Jackson@test...| 22.5|Sean.Jackson@test...|     1964|
+|   Ben.Huey@test.com|  3.5|   Ben.Huey@test.com|     1942|
+|   Ben.Huey@test.com|  0.0|   Ben.Huey@test.com|     1942|
+|   Ben.Huey@test.com| 36.0|   Ben.Huey@test.com|     1942|
+|   Ben.Huey@test.com|-11.0|   Ben.Huey@test.com|     1942|
+|   Ben.Huey@test.com|-20.0|   Ben.Huey@test.com|     1942|
+| Jane.Smith@test.com| -4.5| Jane.Smith@test.com|     1960|
+|Jerry.Smith@test.com| 31.0|Jerry.Smith@test.com|     1961|
++--------------------+-----+--------------------+---------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 1
+-------------------------------------------
++--------------------+-----+--------------------+---------+
+|            customer|score|               email|birthYear|
++--------------------+-----+--------------------+---------+
+|Larry.Harris@test...| -1.0|Larry.Harris@test...|     1957|
+|Jacob.Lincoln@tes...| -1.5|Jacob.Lincoln@tes...|     1956|
+|Larry.Harris@test...| -2.5|Larry.Harris@test...|     1957|
+|Jacob.Lincoln@tes...| -1.5|Jacob.Lincoln@tes...|     1956|
+|Senthil.Spencer@t...| 32.5|Senthil.Spencer@t...|     1939|
+|Senthil.Spencer@t...| 34.5|Senthil.Spencer@t...|     1939|
+|Ashley.Olson@test...| -2.0|Ashley.Olson@test...|     1952|
+|Ashley.Olson@test...| -1.5|Ashley.Olson@test...|     1952|
+|Jerry.Jones@test.com| -2.0|Jerry.Jones@test.com|     1950|
+|Jerry.Jones@test.com| -2.0|Jerry.Jones@test.com|     1950|
+|  Lyn.Doshi@test.com| -2.5|  Lyn.Doshi@test.com|     1955|
+|  Lyn.Doshi@test.com| -2.5|  Lyn.Doshi@test.com|     1955|
+|Danny.Doshi@test.com| -3.0|Danny.Doshi@test.com|     1959|
+|Danny.Doshi@test.com| -4.0|Danny.Doshi@test.com|     1959|
+|Sean.Spencer@test...| -7.0|Sean.Spencer@test...|     1964|
+|Sean.Spencer@test...| 20.0|Sean.Spencer@test...|     1964|
+|Chris.Phillips@te...| -3.0|Chris.Phillips@te...|     1953|
+|Chris.Phillips@te...| -2.5|Chris.Phillips@te...|     1953|
+|Spencer.Olson@tes...| -3.5|Spencer.Olson@tes...|     1951|
+|Spencer.Olson@tes...| -3.0|Spencer.Olson@tes...|     1951|
++--------------------+-----+--------------------+---------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 2
+-------------------------------------------
++--------+-----+-----+---------+
+|customer|score|email|birthYear|
++--------+-----+-----+---------+
++--------+-----+-----+---------+
+
